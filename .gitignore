@@ -1,0 +1,11 @@
+# NetBeans / Java with Ant
+build/
+dist/
+nbproject/private/
+
+# Archivos compilados
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

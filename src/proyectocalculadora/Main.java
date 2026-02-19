@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Resta: " + calc.restar());
         System.out.println("Multiplicación: " + calc.multiplicar());
         System.out.println("División: " + calc.dividir());
+        System.out.println("División2: " + calc.dividir());
     }
 }
 
